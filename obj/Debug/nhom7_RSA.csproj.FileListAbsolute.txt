@@ -28,3 +28,18 @@ C:\Users\admin\OneDrive\Desktop\nhom7_RSA\obj\Debug\nhom7_RSA.Properties.Resourc
 C:\Users\admin\OneDrive\Desktop\nhom7_RSA\obj\Debug\nhom7_RSA.csproj.GenerateResource.cache
 C:\Users\admin\OneDrive\Desktop\nhom7_RSA\obj\Debug\nhom7_RSA.csproj.CoreCompileInputs.cache
 C:\Users\admin\OneDrive\Desktop\nhom7_RSA\obj\Debug\nhom7_RSA.exe
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\bin\Debug\nhom7_RSA.exe.config
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\bin\Debug\nhom7_RSA.exe
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\bin\Debug\nhom7_RSA.pdb
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA.csproj.AssemblyReference.cache
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\MainWindow.g.cs
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\App.g.cs
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA_MarkupCompile.cache
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA_MarkupCompile.lref
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\MainWindow.baml
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA.g.resources
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA.Properties.Resources.resources
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA.csproj.GenerateResource.cache
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA.csproj.CoreCompileInputs.cache
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA.exe
+D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA.pdb
