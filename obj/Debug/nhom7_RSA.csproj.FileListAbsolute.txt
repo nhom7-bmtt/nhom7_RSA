@@ -31,7 +31,6 @@ C:\Users\admin\OneDrive\Desktop\nhom7_RSA\obj\Debug\nhom7_RSA.exe
 D:\Năm 3\Bảo mật thông tin\nhom7_RSA\bin\Debug\nhom7_RSA.exe.config
 D:\Năm 3\Bảo mật thông tin\nhom7_RSA\bin\Debug\nhom7_RSA.exe
 D:\Năm 3\Bảo mật thông tin\nhom7_RSA\bin\Debug\nhom7_RSA.pdb
-D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA.csproj.AssemblyReference.cache
 D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\MainWindow.g.cs
 D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\App.g.cs
 D:\Năm 3\Bảo mật thông tin\nhom7_RSA\obj\Debug\nhom7_RSA_MarkupCompile.cache
