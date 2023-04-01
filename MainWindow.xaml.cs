@@ -270,14 +270,14 @@ namespace nhom7_RSA
                         {
                             if (!RSA_kiemTraNguyenTo(RSA_soP) || RSA_soP <= 1)
                             {
-                                MessageBox.Show("Phải nhập số nguyên  tố [p] lớn hơn 1 ", "Thông Báo", MessageBoxButton.OK, MessageBoxImage.Error);
+                                MessageBox.Show("[p] phải là số nguyên tố lớn hơn 1. Xin nhập lại ", "Thông Báo", MessageBoxButton.OK, MessageBoxImage.Error);
                                 rsa_soP.Focus();
                             }
                             else
                             {
                                 if (!RSA_kiemTraNguyenTo(RSA_soQ) || RSA_soQ <= 1)
                                 {
-                                    MessageBox.Show("Phải nhập số nguyên  tố [q] lớn hơn 1 ", "Thông Báo", MessageBoxButton.OK, MessageBoxImage.Error);
+                                    MessageBox.Show("[q] phải là số nguyên tố lớn hơn 1. Xin nhập lại ", "Thông Báo", MessageBoxButton.OK, MessageBoxImage.Error);
                                     rsa_soQ.Focus();
                                 }
                                 else
